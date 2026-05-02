@@ -7,7 +7,7 @@ O dashboard apresenta os principais indicadores de desempenho comercial, permiti
 
 ## 📸 Preview do Dashboard
 
-![Dashboard](dash principal)
+![Dashboard](dashprincipal.png)
 
 🎯 Objetivo do Projeto
 Analisar o desempenho de vendas ao longo do tempo
