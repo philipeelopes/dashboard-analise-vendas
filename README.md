@@ -5,6 +5,10 @@ Este projeto consiste no desenvolvimento de um Dashboard de Análise de Vendas u
 
 O dashboard apresenta os principais indicadores de desempenho comercial, permitindo uma análise clara e intuitiva mesmo para usuários sem conhecimento técnico em dados.
 
+## 📸 Preview do Dashboard
+
+![Dashboard](dash principal)
+
 🎯 Objetivo do Projeto
 Analisar o desempenho de vendas ao longo do tempo
 Identificar os produtos com maior impacto no faturamento
